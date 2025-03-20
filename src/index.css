@@ -6,12 +6,10 @@
 @tailwind utilities;
 
 
-/* 🌿 General Styles */
 body {
   font-family: 'Poppins', sans-serif;
 }
 
-/* 🌿 Sweetgreen Style Tweaks */
 h1, h2, h3 {
   @apply font-semibold text-primary;
 }
